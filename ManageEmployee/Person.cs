@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ManageEmployee
 {
-    class Employee:CalculateSalary
+    class Person:NotEmployed
     {
-        public Employee(string name, string lastname, int age)
+        public Person (string name, string lastname, int age)
         {
             Name = name;
             Lastname = lastname;

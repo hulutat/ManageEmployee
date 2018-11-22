@@ -46,6 +46,8 @@
     <Compile Include="CalculateSalary.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Manager.cs" />
+    <Compile Include="NotEmployed.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

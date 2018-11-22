@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace ManageEmployee
 {
-    class Employee:CalculateSalary
+   public abstract class NotEmployed:BasePerson
     {
-        public Employee(string name, string lastname, int age)
+        public void Status()
         {
-            Name = name;
-            Lastname = lastname;
-            Age = age;
+            Console.WriteLine();
+            Console.WriteLine($"{Name} {Lastname} is not employed!");
         }
     }
 }
