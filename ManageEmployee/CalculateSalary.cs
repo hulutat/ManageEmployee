@@ -13,15 +13,17 @@ namespace ManageEmployee
 
         public void GetHoursAndPay()
         {
-            Console.WriteLine("Insert the hours worked ");
+            Console.WriteLine();
+            Console.WriteLine($"Insert the hours worked for {Name} {Lastname} ");
             Hours = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Insert pay per hour ");
+            Console.WriteLine($"Insert pay per hour {Name} {Lastname} ");
             PayPerH = Convert.ToInt32(Console.ReadLine());
         }
 
         public void GetSalary()
         {
-            Console.WriteLine($"{Name} {Lastname} total salary : {PayPerH*Hours}");
+            Console.WriteLine();
+            Console.WriteLine($"{Name} {Lastname} total salary : {PayPerH*Hours}$");
         }
 
         
