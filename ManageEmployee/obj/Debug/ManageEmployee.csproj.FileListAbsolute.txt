@@ -1,0 +1,6 @@
+c:\users\iubirica\documents\visual studio 2017\Projects\ManageEmployee\ManageEmployee\bin\Debug\ManageEmployee.exe.config
+c:\users\iubirica\documents\visual studio 2017\Projects\ManageEmployee\ManageEmployee\bin\Debug\ManageEmployee.exe
+c:\users\iubirica\documents\visual studio 2017\Projects\ManageEmployee\ManageEmployee\bin\Debug\ManageEmployee.pdb
+c:\users\iubirica\documents\visual studio 2017\Projects\ManageEmployee\ManageEmployee\obj\Debug\ManageEmployee.csprojResolveAssemblyReference.cache
+c:\users\iubirica\documents\visual studio 2017\Projects\ManageEmployee\ManageEmployee\obj\Debug\ManageEmployee.exe
+c:\users\iubirica\documents\visual studio 2017\Projects\ManageEmployee\ManageEmployee\obj\Debug\ManageEmployee.pdb
